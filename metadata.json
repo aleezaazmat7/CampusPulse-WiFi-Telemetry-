@@ -1,0 +1,8 @@
+{
+  "name": "CampusPulse",
+  "description": "Smart Campus Wi-Fi Monitoring & Network Health Dashboard for universities and campuses with real speed testing, crowd-sourced health mapping, and AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
